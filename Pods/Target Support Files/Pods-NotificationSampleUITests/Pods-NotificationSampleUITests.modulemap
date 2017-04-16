@@ -1,0 +1,6 @@
+framework module Pods_NotificationSampleUITests {
+  umbrella header "Pods-NotificationSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
